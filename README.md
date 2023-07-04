@@ -29,12 +29,11 @@ We are a team of 4
 
 <a href="https://github.com/users/enoqueJonas/projects/3">Kanbanboard</a>
 
-![kanbanboard](https://user-images.githubusercontent.com/76396858/244152021-b5aa9a67-4a61-42d7-9e25-a37a471ef039.png)
-![kanbanboard2](https://user-images.githubusercontent.com/76396858/244152081-c519f834-69f3-4041-b238-af54aa372688.png)
+
 
 # 📖 Tutoring App <a name="about-project"></a>
 
-**Tutoring App** is a single page app that enables users to effortlessly manage classes, including adding, deleting, and viewing class details. It also provides reservation functionality, allowing users to make reservations and view their reservation details
+**Tutoring App** is a single-page app that enables users to effortlessly manage classes, including adding, deleting, and viewing class details. It also provides reservation functionality, allowing users to make reservations and view their reservation details
 
 ## 🛠 Built With <a name="built-with"></a>
 
